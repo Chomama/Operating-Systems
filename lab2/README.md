@@ -1,0 +1,1 @@
+The goal of Lab 2 was to simulate scheduling in order to see how the time required depends on the scheduling algorithm and request patterns.  The four scheduling algorithms simulated are FCFS, RR(with a quantum of 2), LCFS, and HPRN. 
